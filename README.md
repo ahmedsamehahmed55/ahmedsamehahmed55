@@ -32,6 +32,3 @@ A complete C++ data-structures project featuring:
 Implementation of classic sorting algorithms inside a modular project structure.  
 Includes: merge sort, quicksort, heapsort, and performance testing.
 
-I love learning, experimenting, and solving real engineering problems.  
-Feel free to explore my work — and let's connect!
-
