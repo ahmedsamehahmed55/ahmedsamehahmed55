@@ -14,6 +14,18 @@ I enjoy building systems that combine **electrical, mechanical, and software **
 
 ### 🚀 Projects
 
+### 🔹 **ASME Electrical Team — Lunabotics Robot**
+Designing and building the electrical subsystem for a lunar robot competing in NASA’s Lunabotics competition.  
+Focus: power distribution, motor control, CAN communication, and embedded systems.
+
+### 🔹 **Wearable ECG Project**
+A wearable device capable of measuring, filtering, and transmitting ECG signals.  
+Includes analog front-end design and embedded signal processing.
+
+### 🔹 **Sorting Algorithms (C++ Library)**
+Implementation of classic sorting algorithms inside a modular project structure.  
+Includes: merge sort, quicksort, heapsort, and performance testing.
+
 I love learning, experimenting, and solving real engineering problems.  
 Feel free to explore my work — and let's connect!
 
