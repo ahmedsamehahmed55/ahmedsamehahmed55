@@ -6,7 +6,7 @@ I enjoy building systems that combine **electrical, mechanical, and software**
 ### 🔧 Technologies & Interests
 - Embedded Systems (C/C++, Arduino, ESP32, ARM)
 - Robotics
-- Communication Protocols lika CAN, SPI, I2C, etc...
+- Communication Protocols like CAN, SPI, I2C, etc...
 - Data Structures & Algorithms
 - Research
 - Circuit Design and Prototyping
