@@ -28,7 +28,9 @@ A complete C++ data-structures project featuring:
 - customer cart system  
 - item search + sorting  
 
-### 🔹 **Sorting Algorithms (C++ Library)**
-Implementation of classic sorting algorithms inside a modular project structure.  
-Includes: Bubble sort, Selection Sort, Insertion sort, merge sort, quicksort, heapsort, and performance testing.
+### 🔹 **Sorting Algorithms (C++)**
+Implementation of classic sorting algorithms.  
+- Includes: Bubble sort, Selection Sort, Insertion sort, merge sort, quicksort, and heapsort.
+- Includes performance testing for many sernarios to evaluate which is better in which situation.
+
 
