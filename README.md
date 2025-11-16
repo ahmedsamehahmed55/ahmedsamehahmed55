@@ -1,7 +1,7 @@
 # Hi, I'm Ahmed 👋
 
 I'm an Electrical Engineering student class 2028 passionate about **embedded systems, mechatronics, and circuit design**.  
-I enjoy building systems that combine **electrical, mechanical, and software\**
+I enjoy building systems that combine **electrical, mechanical, and software**
 
 ### 🔧 Technologies & Interests
 - Embedded Systems (C/C++, Arduino, ESP32, ARM)
