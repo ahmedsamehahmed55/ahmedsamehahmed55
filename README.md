@@ -30,5 +30,5 @@ A complete C++ data-structures project featuring:
 
 ### 🔹 **Sorting Algorithms (C++ Library)**
 Implementation of classic sorting algorithms inside a modular project structure.  
-Includes: merge sort, quicksort, heapsort, and performance testing.
+Includes: Bubble sort, Selection Sort, Insertion sort, merge sort, quicksort, heapsort, and performance testing.
 
