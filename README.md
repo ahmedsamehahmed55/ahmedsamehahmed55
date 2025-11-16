@@ -18,9 +18,15 @@ I enjoy building systems that combine **electrical, mechanical, and software **
 Designing and building the electrical subsystem for a lunar robot competing in NASA’s Lunabotics competition.  
 Focus: power distribution, motor control, CAN communication, and embedded systems.
 
-### 🔹 **Wearable ECG Project**
-A wearable device capable of measuring, filtering, and transmitting ECG signals.  
-Includes analog front-end design and embedded signal processing.
+### 🔹 **Impedance Measurement Device **
+A compete solution that measures the imepedance with a range of 1k-1M ohm and error less than 5%
+
+### 🔹 **Online Supermarket Ordering System**
+A complete C++ data-structures project featuring:
+- inventory management  
+- linked lists / vectors  
+- customer cart system  
+- item search + sorting  
 
 ### 🔹 **Sorting Algorithms (C++ Library)**
 Implementation of classic sorting algorithms inside a modular project structure.  
