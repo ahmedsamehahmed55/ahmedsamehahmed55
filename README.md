@@ -1,21 +1,18 @@
 # Hi, I'm Ahmed 👋
 
-I'm an Electrical Engineering student passionate about **embedded systems, robotics, and C++ development**.  
-I enjoy building systems that combine **software, hardware, and intelligence**, from IoT projects to algorithms and engineering simulations.
+I'm an Electrical Engineering student class 2028 passionate about **embedded systems, mechatronics, and circuit design**.  
+I enjoy building systems that combine **electrical, mechanical, and software **
 
 ### 🔧 Technologies & Interests
 - Embedded Systems (C/C++, Arduino, ESP32, ARM)
-- Robotics & CAN Communication
-- IoT & Automation
+- Robotics
+- Communication Protocols lika CAN, SPI, I2C, etc...
 - Data Structures & Algorithms
-- Engineering Simulations
+- Research
+- Circuit Design and Prototyping
+- Mechanical Design and 3D printing
 
 ### 🚀 Projects
-- 🌱 Smart IoT Greenhouse System  
-- 🤖 Robotics control systems with CAN  
-- 📡 Near-space investigation POD  
-- 📦 Online supermarket ordering system  
-- 📊 Sorting algorithms library (C++)
 
 I love learning, experimenting, and solving real engineering problems.  
 Feel free to explore my work — and let's connect!
