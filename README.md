@@ -19,11 +19,9 @@ Designing and building the electrical subsystem for a lunar Rover competing in N
 Focus: power distribution, PCB, motor control, CAN communication, and embedded systems.
 
 <p align="center">
-  <img src="Rover.jpg" width="500">
+  <img src="Rover.jpg" width="500"><br>
+  <a href="https://github.com/umasme/2025-2026/tree/main/embedded-low-level-electrical">Check this link</a>
 </p>
-
-
-🔗 [Check this link](https://github.com/umasme/2025-2026/tree/main/embedded-low-level-electrical)
 
 ### 🔹 **Modeling and Simulation of Parallel Hybrid Electric Vehicles (PHEV) Using MATLAB/Simulink**
 Developed simulation models for conventional, electric, and hybrid powertrains in MATLAB/Simulink, designing a
