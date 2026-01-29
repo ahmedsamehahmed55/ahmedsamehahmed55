@@ -16,7 +16,9 @@ I enjoy building systems that combine **electrical, mechanical, and software**
 
 ### 🔹 **Autonomous Lunar Construction Rover for the NASA Lunabotics Challenge**
 Designing and building the electrical subsystem for a lunar Rover competing in NASA’s Lunabotics competition.  
-Focus: power distribution, motor control, CAN communication, and embedded systems.
+Focus: power distribution, PCB, motor control, CAN communication, and embedded systems.
+[Check this link](https://github.com/umasme/2025-2026/tree/main/embedded-low-level-electrical)
+
 ### 🔹 **Modeling and Simulation of Parallel Hybrid Electric Vehicles (PHEV) Using MATLAB/Simulink**
 Developed simulation models for conventional, electric, and hybrid powertrains in MATLAB/Simulink, designing a
 six-speed gearbox and torque-coupling system to replicate real-world drivetrain dynamics
