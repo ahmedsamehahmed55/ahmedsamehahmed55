@@ -40,7 +40,9 @@ A complete C++ data-structures project featuring:
 - inventory management  
 - linked lists / vectors  
 - customer cart system  
-- item search + sorting  
+- item search + sorting
+
+[Press here for more details](https://github.com/ahmedsamehahmed55/Online-Supermarket-Ordering-System)
 
 ### 🔹 **Sorting Algorithms (C++)**
 Implementation of classic sorting algorithms.  
