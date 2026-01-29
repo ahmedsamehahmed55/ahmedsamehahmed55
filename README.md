@@ -20,7 +20,7 @@ Focus: power distribution, PCB, motor control, CAN communication, and embedded s
 
 <p align="center">
   <img src="Rover.jpg" width="500"><br>
-  <a href="https://github.com/umasme/2025-2026/tree/main/embeded-low-level-electrical">Check this link</a>
+  <a href="https://github.com/umasme/2025-2026/tree/main/embeded-low-level-electrical">Press here for more details</a>
 </p>
 
 
@@ -28,10 +28,12 @@ Focus: power distribution, PCB, motor control, CAN communication, and embedded s
 Developed simulation models for conventional, electric, and hybrid powertrains in MATLAB/Simulink, designing a
 six-speed gearbox and torque-coupling system to replicate real-world drivetrain dynamics.
 
-[Check this link](https://github.com/umasme/2025-2026/tree/main/embeded-low-level-electrical/2025-2026/PCBs_schematics/ASME%20UM%20Control%20Board%20EDIT%20HERE)
+[Press here for more details](https://github.com/umasme/2025-2026/tree/main/embeded-low-level-electrical/2025-2026/PCBs_schematics/ASME%20UM%20Control%20Board%20EDIT%20HERE)
 
 ### 🔹 **Impedance Measurement Device**
 A compete solution that measures the imepedance with a range of 1k-1M ohm and error less than 5%
+
+[Press here for more details](https://github.com/ahmedsamehahmed55/Impedance-Meter)
 
 ### 🔹 **Online Supermarket Ordering System**
 A complete C++ data-structures project featuring:
